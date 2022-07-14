@@ -1,6 +1,6 @@
 # Articles
 
-# 2022
+## 2022
 ### [Eurovision, a never-ending variety](eurovisionANeverEndingVariety.md)
 
-# 2023
+## 2023
