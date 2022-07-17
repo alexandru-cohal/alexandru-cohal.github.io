@@ -15,5 +15,6 @@ According to the rules and to the tradition, the winning country has the honor t
 
 P.S. If there is one concept which Eurovision brings to another level year by year, that would be, for sure, the variety. The genres, dances, stories, instruments, languages, shows, effects, reactions are always surprising, but maybe the most original ones are the song titles. Speaking of this, the titles of all the 40 songs from this year were included directly or indirectly as the skeleton of this article. Pretty amazing what could be done with them, right?
  
- 
+&nbsp;
+
 ***Barcelona, June 2022*** 
