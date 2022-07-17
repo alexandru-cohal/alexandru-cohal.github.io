@@ -1,3 +1,5 @@
+&nbsp;
+
 # Eurovision, a never-ending variety
 
 If it’s May, it’s Eurovision time! One of the most important events for me took place this year, 2022, between 10th and 14th of May in Torino, Italy. 40 songs, 2 semifinals, 1 grand finale, 3 sometimes clumsy, sometimes funny presenters, 200 jury members and 161 million viewers were needed in order to choose the country which deserved a river of applauses this year, Ukraine. 
