@@ -11,3 +11,7 @@ In order to have good luck, a person should wear new clothes, preferably red bec
 Being healthy in the new year is simple. You should eat an apple on the last day of the year and everything is solved. This is because if the Romanians would follow ad litteram the proverb "An apple a day keeps the doctor away", there wouldn't be anything left to make one of the types of Pălinca, a spirit similar to the Spanish Orujo.
 
 For Romanians, the superstitions are not ending when the new year starts. The first day of the year was also very fruitful for this kind of inventions. Though, all of them can be summed up by saying that whatever you will do on the first day, you will do for the whole year. Plus some extra bad luck if you will talk about phantoms and dead people (because, of course, the legend of Dracula was not randomly placed in Romania). 
+ 
+&nbsp;
+
+***Barcelona, December 2022*** 
