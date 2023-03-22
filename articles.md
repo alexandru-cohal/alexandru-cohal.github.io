@@ -10,3 +10,4 @@
 ## 2023
 ### [Review of the _Neapolitan Novels_ written by Elena Ferrante](reviewOfTheNeapolitanNovels.md)
 ### [Review of _Cold Skin_ written by Albert Sánchez Piñol](reviewOfColdSkin.md)
+### [Waiting for Eurovision 2023](waitingForEurovision2023.md)
