@@ -6,7 +6,7 @@ All the 37 artists and their songs have been decided. The dates and times for th
 
 Everything is ready! 
 
-One question remains which is not _"Who will win?"_. But _"How easy it will be for Sweden to win?"_
+There is only one question remaining which is not _"Who will win?"_ but _"How easy it will be for Sweden to win?"_
 
 &nbsp;
 
