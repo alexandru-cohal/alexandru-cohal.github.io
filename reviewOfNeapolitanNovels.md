@@ -1,6 +1,6 @@
 &nbsp;
 
-# Review of _Neapolitan Novels_ written by Elena Ferrante
+# Review of Elena Ferrante's _Neapolitan Novels_
 
 Not being part of the "Netflix generation", my mother really wanted some years ago to watch on one of the Romanian TV channels the series made after Elena Ferrante's _Neapolitan Novels_, after enjoying reading all the volumes. Seeing her dedication to be ready in front of the TV several weeks in a row, on the same day and at the same time, after perfectly synchronizing everything she had to do, my interest in also watching this series grew as fast as a clown can inflate a balloon. Only that the balloon didn’t break because the topic of the series was not as good as I expected but because it was much better. So, I decided after some minutes to not give spoilers to myself, stop watching and read the novels. Only that this desire was rapidly forgotten in that specific dark corner of the mind which each of us has and is using for storing those intentions of things to do which very rarely end up seeing the sunlight again.
 
