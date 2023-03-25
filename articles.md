@@ -8,6 +8,6 @@
 ### [New Year's Eve Superstitions in Romania](newYearsEveSuperstitionsInRomania.md)
 
 ## 2023
-### [Review of _Neapolitan Novels_ written by Elena Ferrante](reviewOfNeapolitanNovels.md)
-### [Review of _Cold Skin_ written by Albert Sánchez Piñol](reviewOfColdSkin.md)
+### [Review of Elena Ferrante's _Neapolitan Novels_](reviewOfNeapolitanNovels.md)
+### [Review of Albert Sánchez Piñol's _Cold Skin_](reviewOfColdSkin.md)
 ### [Waiting for Eurovision 2023](waitingForEurovision2023.md)
