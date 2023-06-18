@@ -11,3 +11,4 @@
 ### [Review of Elena Ferrante's _Neapolitan Novels_](reviewOfNeapolitanNovels.md)
 ### [Review of Albert Sánchez Piñol's _Cold Skin_](reviewOfColdSkin.md)
 ### [Waiting for Eurovision 2023](waitingForEurovision2023.md)
+### [The Eurovision 2023 Tattoo](theEurovision2023Tattoo.md)
