@@ -13,3 +13,4 @@
 ### [Waiting for Eurovision 2023](waitingForEurovision2023.md)
 ### [The Eurovision 2023 Tattoo](theEurovision2023Tattoo.md)
 ### [My First _Sant Jordi_](myFirstSantJordi.md)
+### [Review of Dan Lungu's _I'm an Old Commie!_](reviewOfImAnOldCommie.md)
