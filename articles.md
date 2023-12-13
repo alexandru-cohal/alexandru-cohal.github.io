@@ -15,3 +15,4 @@
 ### [My First _Sant Jordi_](myFirstSantJordi.md)
 ### [Review of Dan Lungu's _I'm an Old Commie!_](reviewOfImAnOldCommie.md)
 ### [The bear, the dance and the New Year's Eve](theBearTheDanceAndTheNYE.md)
+### [eview of Mohamed Choukri's _For Bread Alone_](reviewOfForBreadAlone.md)
