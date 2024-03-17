@@ -17,3 +17,7 @@
 ### [The bear, the dance and the New Year's Eve](theBearTheDanceAndTheNYE.md)
 ### [Review of Mohamed Choukri's _For Bread Alone_](reviewOfForBreadAlone.md)
 ### [Review of Italo Calvino's _If on a Winter's Night a Traveler_](reviewOfIfOnAWintersNightATraveler.md)
+
+## 2024
+### [ITKS Mystery Series - Episode 1: Sh*t happens](mysteryEpisode1ShtHappens.md)
+### [Review of Fred Vargas' _The Chalk Circle Man_](reviewOfTheChalkCircleMan.md)
