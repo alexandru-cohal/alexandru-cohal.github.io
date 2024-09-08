@@ -22,3 +22,4 @@
 ### [ITKS Mystery Series - Episode 1: Sh*t happens](mysteryEpisode1ShtHappens.md)
 ### [Review of Fred Vargas' _The Chalk Circle Man_](reviewOfTheChalkCircleMan.md)
 ### [CEIC goes to Rülzheim. Again.](ceicGoesToRulzheimAgain.md)
+### [Advent of Code](adventOfCode.md)
