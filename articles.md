@@ -22,4 +22,7 @@
 ### [ITKS Mystery Series - Episode 1: Sh*t happens](mysteryEpisode1ShtHappens.md)
 ### [Review of Fred Vargas' _The Chalk Circle Man_](reviewOfTheChalkCircleMan.md)
 ### [CEIC goes to Rülzheim. Again.](ceicGoesToRulzheimAgain.md)
+### [Review of Liu Cixin's _The Three-Body Problem_](reviewOfTheThreeBodyProblem.md)
+### [Summer Recommendations - 2024 Edition](summerRecommendations2024.md)
+### [cASR Workshop](cASRWorkshop.md)
 ### [Advent of Code](adventOfCode.md)
