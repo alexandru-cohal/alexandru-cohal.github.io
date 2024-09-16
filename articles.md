@@ -26,3 +26,4 @@
 ### [Summer Recommendations - 2024 Edition](summerRecommendations2024.md)
 ### [cASR Workshop](cASRWorkshop.md)
 ### [Advent of Code](adventOfCode.md)
+### [Review of Brandon Sanderson's _The Final Empire (Mistborn #1)_](reviewOfTheFinalEmpire.md)
