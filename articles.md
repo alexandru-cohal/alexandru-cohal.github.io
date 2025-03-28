@@ -28,3 +28,7 @@
 ### [Advent of Code](adventOfCode.md)
 ### [Review of Brandon Sanderson's _The Final Empire (Mistborn #1)_](reviewOfTheFinalEmpire.md)
 ### [Review of Art Spiegelman's _Maus_](reviewOfMaus.md)
+
+## 2025
+### [Espejito, espejito...](espejitoEspejito.md)
+### [Review of Jennette McCurdy's _I'm Glad My Mom Died_](reviewOfImGladMyMomDied.md)
