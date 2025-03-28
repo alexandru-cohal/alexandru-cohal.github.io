@@ -27,3 +27,4 @@
 ### [cASR Workshop](cASRWorkshop.md)
 ### [Advent of Code](adventOfCode.md)
 ### [Review of Brandon Sanderson's _The Final Empire (Mistborn #1)_](reviewOfTheFinalEmpire.md)
+### [Review of Art Spiegelman's _Maus_](reviewOfMaus.md)
