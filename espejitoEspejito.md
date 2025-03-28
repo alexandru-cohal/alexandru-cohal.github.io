@@ -25,6 +25,7 @@ Nunca puedo elegir la mejor salida de una estación de metro. No importa lo bien
 Desde la primera vez que llegué a la estación de metro de Barceloneta tras mudarme a Barcelona, ​​siempre supe al instante, sin dudarlo, en qué dirección salir del metro y qué salida elegir. Estaba muy orgulloso de mí mismo. Encontré mi estación de metro "espejo". Supe en ese momento que había superado la prueba y que el barrio de la Barceloneta me había aceptado para vivir allí.
 
 Sin embargo, unos meses después, mis esperanzas, sueños y mi espejo imaginario se hicieron añicos. Me di cuenta de que la estación de metro de Barceloneta solo tiene una sola salida. Y no hay forma de acertar ni de equivocarse. Me decepcioné porque el barrio me había engañado. Y no era la primera vez. Lo mismo ocurrió con la estación de metro de Strašnická en Praga, tres años antes. La historia tiene una forma muy curiosa de repetirse una y otra vez…
+
 ¡Espejito, espejito de mi metro estación! ¿Quién es el más tonto de esta región?
 
 &nbsp;
