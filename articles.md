@@ -32,3 +32,4 @@
 ## 2025
 ### [Espejito, espejito...](espejitoEspejito.md)
 ### [Review of Jennette McCurdy's _I'm Glad My Mom Died_](reviewOfImGladMyMomDied.md)
+### [Review of Truman Capote's _In Cold Blood_](reviewOfInColdBlood.md)
